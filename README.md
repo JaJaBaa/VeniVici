@@ -44,8 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/oi9alTU.gif" alt="Video Walkthrough" width="500"/>
-
+<img src='https://i.imgur.com/oi9alTU.gif' alt="Video Walkthrough" width="500"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
